@@ -22,7 +22,7 @@
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,mysql,sqllte,js,ts,figma" />
   </a>
-  
+  <br>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CarlosHenriqq&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
