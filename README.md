@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando desde 2022 ...<br>📚 Atualmente aprimorando meus conhecimento com React native, TypeScript e node.js ...<br>🎯 Skills: - Desenvolvimento Mobile<br> - Criação de UML <br> - Gerenciamento de banco de dados <br> - Prototipagem </p>
+<p align="left">✨ Criando desde 2022 ...<br>📚 Atualmente aprimorando meus conhecimento com React native, TypeScript e node.js<br>🎯 Skills: <br> - Desenvolvimento Mobile<br> - Criação de UML <br> - Gerenciamento de banco de dados <br> - Prototipagem </p>
 
 ###
 
@@ -23,6 +23,9 @@
     <img src="https://skillicons.dev/icons?i=git,react,mysql,sqllte,js,ts,figma" />
   </a>
   
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosHenriqq&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
