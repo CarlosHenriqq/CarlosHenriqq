@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando desde 2022 ...<br>📚 Atualmente aprimorando meus conhecimento com React native, TypeScript e node.js ...<br>🎯 Skills: - Desenvolvimento Mobile<br> - Criação de UML <br> - Gerenciamento de banco de dados <br> - Prototipagem </p>
 
 ###
 
@@ -19,16 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,mysql,sqllte,js,ts,figma" />
+  </a>
   
 </div>
 
