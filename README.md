@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Henrique, sou de Birigui - SP interior de SP e estou no meu último semestre da faculdade, prestes a se tornar um engenheiro de software</p>
+<p align="left">Meu nome é Carlos Henrique, sou de Araçatuba - SP interior de SP formado em Engenharia de Software, desenvolver mobile e web e QA Cypresse</p>
 
 ###
 
