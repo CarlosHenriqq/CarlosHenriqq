@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Henrique, sou de Araçatuba - SP interior de SP formado em Engenharia de Software, desenvolver mobile e web e QA Cypresse</p>
+<p align="left">Meu nome é Carlos Henrique, sou de Araçatuba - SP interior de SP formado em Engenharia de Software, desenvolver mobile e web e QA Cypress</p>
 
 ###
 
